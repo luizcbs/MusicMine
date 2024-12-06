@@ -448,6 +448,105 @@
         "name": "assets\\rail\\pixil-layer-Layer 5.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/drill/pixil-frame-0(1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\drill\\pixil-frame-0(1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/drill/pixil-frame-1(1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\drill\\pixil-frame-1(1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/petrolium/pixil-frame-0(2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\petrolium\\pixil-frame-0(2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/gasoline/pixil-frame-0(2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\gasoline\\pixil-frame-0(2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/iron/pixil-frame-0(1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\iron\\pixil-frame-0(1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/gold/pixil-frame-0(1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\gold\\pixil-frame-0(1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/emerald/pixil-frame-0(2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\emerald\\pixil-frame-0(2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/dimont/pixil-frame-0(2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\dimont\\pixil-frame-0(2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/dimont/pixil-frame-1(1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\dimont\\pixil-frame-1(1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/tectonium/pixil-frame-0(2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\tectonium\\pixil-frame-0(2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/machines/filiponium/pixil-frame-0(2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\machines\\filiponium\\pixil-frame-0(2).png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -460,13 +559,11 @@
   "variables": [
     {
       "name": "Tempo_global",
-      "persistentUuid": "20b546a8-40b1-4146-a4f8-60d5a2a97bff",
       "type": "number",
       "value": 0
     },
     {
       "name": "Nível_Carvão_1",
-      "persistentUuid": "2b4aa5ec-089a-4409-89aa-19ef2413a7ae",
       "type": "number",
       "value": 0
     },
@@ -547,7 +644,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.633762677931545,
+        "zoomFactor": 1.1343715797161258,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -663,23 +760,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 44,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina",
-          "persistentUuid": "52f7d251-b8a6-474e-bd08-7f2f1f8eaa26",
-          "width": 133,
-          "x": 185,
-          "y": 134,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 190,
           "keepRatio": true,
           "layer": "",
@@ -738,210 +818,6 @@
           "x": 888,
           "y": 101,
           "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 48,
-          "height": 34,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Melhorar",
-          "persistentUuid": "9300cae8-12c5-4948-b5bb-d73c4d2f64b0",
-          "width": 100,
-          "x": 907,
-          "y": 233,
-          "zOrder": 17,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 54,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina2",
-          "persistentUuid": "d371dca9-5dc2-4943-a2fd-074fd9132db1",
-          "width": 129,
-          "x": 407,
-          "y": 130,
-          "zOrder": 18,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 37,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina3",
-          "persistentUuid": "ab381ca3-ab52-4ca5-afb2-a4ad8ec657a8",
-          "width": 134,
-          "x": 651,
-          "y": 139,
-          "zOrder": 19,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 33,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina4",
-          "persistentUuid": "b2efaffc-7b18-4b82-a612-cdab1054a7fd",
-          "width": 99,
-          "x": 136,
-          "y": 239,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 22,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina5",
-          "persistentUuid": "50a8eaad-c2a7-4a27-a2a9-97a7ab79a12c",
-          "width": 133,
-          "x": 377,
-          "y": 243,
-          "zOrder": 21,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 53,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina6",
-          "persistentUuid": "2ecad0d0-8cd6-4d1c-9cea-15c27357b24b",
-          "width": 155,
-          "x": 652,
-          "y": 232,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 27,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina7",
-          "persistentUuid": "df7771bb-1ad2-4686-816e-4b1246049a95",
-          "width": 155,
-          "x": 100,
-          "y": 349,
-          "zOrder": 23,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 47,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina8",
-          "persistentUuid": "705f7e48-9a7f-434f-b804-056e87db70c3",
-          "width": 96,
-          "x": 406,
-          "y": 334,
-          "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 28,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina9",
-          "persistentUuid": "c9b4b830-d17a-44b1-920a-23af77b513b1",
-          "width": 98,
-          "x": 684,
-          "y": 349,
-          "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina10",
-          "persistentUuid": "57983a82-d626-4050-93f3-f680ca3c17fa",
-          "width": 176,
-          "x": 83,
-          "y": 485,
-          "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 76,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina11",
-          "persistentUuid": "76454dac-790e-4f3a-a855-9b17be1a2591",
-          "width": 145,
-          "x": 371,
-          "y": 476,
-          "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 66,
-          "keepRatio": true,
-          "layer": "",
-          "name": "maquina12",
-          "persistentUuid": "43400f35-0f84-405f-ac06-e427e4b3868b",
-          "width": 200,
-          "x": 643,
-          "y": 481,
-          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1154,6 +1030,362 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Melhorar",
+          "persistentUuid": "62d5c8ba-613b-49b5-a894-6198d1ea38fb",
+          "width": 0,
+          "x": 922,
+          "y": 239,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 102,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina",
+          "persistentUuid": "6f31865d-2057-4e87-8758-4abc4ee04021",
+          "width": 71,
+          "x": 248,
+          "y": 128,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 103,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina2",
+          "persistentUuid": "7d6cdc6f-e58a-4ae8-a545-4d7762be80e5",
+          "width": 74,
+          "x": 436,
+          "y": 128,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 83,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina3",
+          "persistentUuid": "f7866422-4138-4b62-90a0-b9e624b1b84b",
+          "width": 47,
+          "x": 705,
+          "y": 143,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 99,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina4",
+          "persistentUuid": "b0f83363-519f-42a7-9759-bf31342d6344",
+          "width": 67,
+          "x": 247,
+          "y": 243,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 89,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina5",
+          "persistentUuid": "7f05b715-c255-4f45-ae6b-60a8a4730e4f",
+          "width": 55,
+          "x": 435,
+          "y": 254,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 89,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina6",
+          "persistentUuid": "7093d5d5-e1cf-4215-b1b5-3bc1768c0d1e",
+          "width": 56,
+          "x": 706,
+          "y": 255,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina7",
+          "persistentUuid": "5b2c9eb6-07ac-4b1f-b484-22ace303eaff",
+          "width": 65,
+          "x": 245,
+          "y": 354,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina8",
+          "persistentUuid": "a26dd932-9af7-4afc-b829-806eabf0acee",
+          "width": 64,
+          "x": 426,
+          "y": 358,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 86,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina9",
+          "persistentUuid": "02cd9322-3902-48b0-bf14-37e6dcec89b8",
+          "width": 47,
+          "x": 706,
+          "y": 365,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 88,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina10",
+          "persistentUuid": "6025b510-0ac1-4218-abca-cfd18a3bf9f7",
+          "width": 64,
+          "x": 242,
+          "y": 465,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 94,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina11",
+          "persistentUuid": "25549467-dcfe-440a-8893-81b68cbd3ebc",
+          "width": 61,
+          "x": 430,
+          "y": 460,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 81,
+          "keepRatio": true,
+          "layer": "",
+          "name": "maquina12",
+          "persistentUuid": "c204074a-1109-4093-8d4a-ec3fb50bb6ab",
+          "width": 49,
+          "x": 706,
+          "y": 464,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trilho",
+          "persistentUuid": "b742e86b-a668-480e-a4f2-dea2161abc98",
+          "width": 235,
+          "x": 478,
+          "y": 510,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trilho",
+          "persistentUuid": "b6153bc8-3283-4588-9e75-3fe652d1e708",
+          "width": 140,
+          "x": 297,
+          "y": 509,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trilho",
+          "persistentUuid": "38d0e983-7ed2-4e43-a999-966843affaed",
+          "width": 140,
+          "x": 300,
+          "y": 406,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trilho",
+          "persistentUuid": "1193dba3-511b-48f2-8990-6cf4400903a6",
+          "width": 235,
+          "x": 477,
+          "y": 407,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trilho",
+          "persistentUuid": "07a85095-e771-4249-a345-ca9b120cb1c4",
+          "width": 140,
+          "x": 304,
+          "y": 298,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trilho",
+          "persistentUuid": "42733bc3-34c7-42e6-976a-d18f1a2a1164",
+          "width": 235,
+          "x": 483,
+          "y": 298,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trilho",
+          "persistentUuid": "6524357c-47b7-4226-957f-e2b845c0dbd3",
+          "width": 140,
+          "x": 306,
+          "y": 184,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trilho",
+          "persistentUuid": "21fc4f89-cc84-426a-9ecc-127952343a62",
+          "width": 235,
+          "x": 501,
+          "y": 184,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1234,10 +1466,10 @@
               "IsCalledManually": false
             },
             {
-              "allowDiagonals": false,
-              "ignoreDefaultControls": true,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "allowDiagonals": false,
+              "ignoreDefaultControls": true,
               "acceleration": 1000,
               "deceleration": 1000,
               "maxSpeed": 200,
@@ -1303,28 +1535,6 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite3",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
           "name": "NewSprite4",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -1373,77 +1583,6 @@
                           {
                             "x": 31,
                             "y": 64
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite5",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
                           }
                         ]
                       ]
@@ -2179,750 +2318,6 @@
           "behaviors": []
         },
         {
-          "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
-          "name": "Melhorar",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 0,
-            "RightPadding": 0,
-            "PressedLabelOffsetY": 4,
-            "BottomPadding": 6,
-            "TopPadding": 0,
-            "HoveredFadeOutDuration": 0
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 10,
-              "height": 64,
-              "leftMargin": 6,
-              "rightMargin": 6,
-              "texture": "Transparent Button With White Blue Border_Hovered.png",
-              "tiled": false,
-              "topMargin": 10,
-              "width": 192
-            },
-            "Idle": {
-              "bottomMargin": 10,
-              "height": 64,
-              "leftMargin": 6,
-              "rightMargin": 6,
-              "texture": "Transparent Button With White Blue Border_Idle.png",
-              "tiled": false,
-              "topMargin": 10,
-              "width": 192
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Melhorar",
-              "font": "Kenney Mini Square.ttf",
-              "textAlignment": "center",
-              "characterSize": 20,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "Melhorar",
-                "font": "Kenney Mini Square.ttf",
-                "textAlignment": "center",
-                "verticalTextAlignment": "top",
-                "characterSize": 20,
-                "color": "255;255;255"
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 10,
-              "height": 64,
-              "leftMargin": 6,
-              "rightMargin": 6,
-              "texture": "Transparent Button With White Blue Border_Pressed.png",
-              "tiled": false,
-              "topMargin": 10,
-              "width": 192
-            }
-          }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina3",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina4",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina5",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina6",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina7",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina8",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina9",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina10",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina11",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "maquina12",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "maquina.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 0
-                          },
-                          {
-                            "x": 300,
-                            "y": 168
-                          },
-                          {
-                            "x": 0,
-                            "y": 168
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -3009,7 +2404,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite6",
+          "name": "trilho",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3149,6 +2544,1019 @@
             "characterSize": 30,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Melhorar",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Clique para\n melhorar",
+          "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Clique para\n melhorar",
+            "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "0",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\drill\\pixil-frame-0(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\drill\\pixil-frame-1(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\petrolium\\pixil-frame-0(2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 6
+                          },
+                          {
+                            "x": 31,
+                            "y": 6
+                          },
+                          {
+                            "x": 31,
+                            "y": 55
+                          },
+                          {
+                            "x": 1,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\gasoline\\pixil-frame-0(2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 4
+                          },
+                          {
+                            "x": 31,
+                            "y": 4
+                          },
+                          {
+                            "x": 31,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "0",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\drill\\pixil-frame-0(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\drill\\pixil-frame-1(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina5",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\iron\\pixil-frame-0(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina6",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\gold\\pixil-frame-0(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 31,
+                            "y": 2
+                          },
+                          {
+                            "x": 31,
+                            "y": 55
+                          },
+                          {
+                            "x": 1,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "0",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\drill\\pixil-frame-0(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\drill\\pixil-frame-1(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina8",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\emerald\\pixil-frame-0(2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 54
+                          },
+                          {
+                            "x": 4,
+                            "y": 54
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina9",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "0",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\dimont\\pixil-frame-0(2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 54
+                          },
+                          {
+                            "x": 4,
+                            "y": 54
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\dimont\\pixil-frame-1(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 54
+                          },
+                          {
+                            "x": 4,
+                            "y": 54
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina10",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "0",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\drill\\pixil-frame-0(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\drill\\pixil-frame-1(1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 2
+                          },
+                          {
+                            "x": 28,
+                            "y": 55
+                          },
+                          {
+                            "x": 2,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina11",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\tectonium\\pixil-frame-0(2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 13
+                          },
+                          {
+                            "x": 32,
+                            "y": 13
+                          },
+                          {
+                            "x": 32,
+                            "y": 55
+                          },
+                          {
+                            "x": 1,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "maquina12",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\machines\\filiponium\\pixil-frame-0(2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 1
+                          },
+                          {
+                            "x": 30,
+                            "y": 1
+                          },
+                          {
+                            "x": 30,
+                            "y": 61
+                          },
+                          {
+                            "x": 4,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3158,7 +3566,22 @@
             "objectName": "NewTileMap"
           },
           {
-            "objectName": "NewSprite6"
+            "objectName": "maquina11"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "maquina9"
+          },
+          {
+            "objectName": "maquina5"
+          },
+          {
+            "objectName": "maquina3"
+          },
+          {
+            "objectName": "trilho"
           },
           {
             "objectName": "Nivel"
@@ -3188,16 +3611,7 @@
             "objectName": "Quartzo"
           },
           {
-            "objectName": "NewSprite5"
-          },
-          {
             "objectName": "Esmeralda"
-          },
-          {
-            "objectName": "NewSprite2"
-          },
-          {
-            "objectName": "NewSprite3"
           },
           {
             "objectName": "NewSprite"
@@ -3206,19 +3620,7 @@
             "objectName": "NewSprite4"
           },
           {
-            "objectName": "maquina"
-          },
-          {
             "objectName": "maquina2"
-          },
-          {
-            "objectName": "maquina10"
-          },
-          {
-            "objectName": "maquina4"
-          },
-          {
-            "objectName": "maquina5"
           },
           {
             "objectName": "maquina12"
@@ -3230,22 +3632,22 @@
             "objectName": "numero_nivel"
           },
           {
-            "objectName": "maquina11"
-          },
-          {
             "objectName": "maquina8"
           },
           {
-            "objectName": "maquina9"
+            "objectName": "maquina"
           },
           {
             "objectName": "maquina7"
           },
           {
-            "objectName": "maquina6"
+            "objectName": "maquina4"
           },
           {
-            "objectName": "maquina3"
+            "objectName": "maquina10"
+          },
+          {
+            "objectName": "maquina6"
           },
           {
             "objectName": "Comprar"
@@ -3269,13 +3671,13 @@
             "objectName": "borda_menu_melhora"
           },
           {
-            "objectName": "Melhorar"
-          },
-          {
             "objectName": "NewText2"
           },
           {
             "objectName": "Refinaria"
+          },
+          {
+            "objectName": "Melhorar"
           }
         ]
       },
@@ -3745,7 +4147,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Carvão_1"
               ]
             }
           ]
@@ -3801,7 +4203,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Carvão_2_Petróleo"
               ]
             },
             {
@@ -3875,7 +4277,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Carvão_3_Gasolina"
               ]
             },
             {
@@ -3949,7 +4351,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Cobre_1"
               ]
             },
             {
@@ -4023,7 +4425,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Cobre_2_Prata"
               ]
             },
             {
@@ -4098,7 +4500,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Cobre_3_Ouro"
               ]
             },
             {
@@ -4172,7 +4574,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Cristal_1_Quartzo"
               ]
             },
             {
@@ -4246,7 +4648,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Cristal_2_Esmeralda"
               ]
             },
             {
@@ -4320,7 +4722,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Cristal_3_Diamante"
               ]
             },
             {
@@ -4394,7 +4796,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Uranio_1"
               ]
             },
             {
@@ -4468,7 +4870,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Uranio_2_Tectonio"
               ]
             },
             {
@@ -4542,7 +4944,7 @@
                 "numero_nivel",
                 "Text",
                 "=",
-                "nivel_maquina_1"
+                "Nível_Uranio_3_Philliponio"
               ]
             },
             {
